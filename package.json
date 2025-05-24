@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "123",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thanh231/NodeJS.git"
+  },
+  "keywords": [
+    "blog",
+    "nodejs"
+  ],
+  "author": "congthanh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thanh231/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Thanh231/NodeJS#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
